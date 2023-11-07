@@ -1,6 +1,5 @@
 # hellocalculator
-
-A new Flutter project.
+Calculatrice réalisée à l'aide du sdk flutter.
 
 ## Getting Started
 
